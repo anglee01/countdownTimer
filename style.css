@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    color: blue;
+    background-color: burlywood;
+}
+
+.countdown {
+    text-align: center;
+}
+
+#timer {
+    font-size: 2rem;
+}
